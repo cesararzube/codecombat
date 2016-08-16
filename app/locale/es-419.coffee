@@ -10,10 +10,7 @@ module.exports = nativeDescription: "Español (América Latina)", englishDescrip
     ipad_browser: "Malas noticias: CodeCombat no funciona en el navegador de iPad. Buenas noticias: nuestra propia aplicación de iPad esta en espera para ser aprobada por Apple."
     campaign: "Campaña"
     for_beginners: "Para Principiantes"
-    multiplayer: "Multijugador" # Not currently shown on home page
-    for_developers: "Para Desarrolladores" # Not currently shown on home page.
-    or_ipad: "O descargar para iPad"
-
+  
   new_home:
     slogan: "El juego más interesante para aprender programación."
     classroom_edition: "Versión para el Aula:"
